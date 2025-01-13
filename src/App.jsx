@@ -6,7 +6,6 @@ import Header from './components/header/Header';
 import Intro from './components/intro/Intro';
 import Portfolio from './components/portfolio/Portfolio';
 import Certificates from './components/certificates/Certificates'
-import Testimonials from './components/testimonials/Testimonials';
 import Topbar from './components/topbar/Topbar';
 
 
