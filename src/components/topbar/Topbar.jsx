@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { AiOutlineHome } from 'react-icons/ai';
 import { AiOutlineUser } from 'react-icons/ai';
-import { RiServiceLine } from 'react-icons/ri';
 import { BiMessageSquareDetail } from 'react-icons/bi';
 import { BiFolderOpen } from 'react-icons/bi';
 import { FiAward } from 'react-icons/fi';

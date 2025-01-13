@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react';
 import CTA from './CTA';
-import HeaderSocials from './HeaderSocials';
 import './header.css';
 import Typed from 'typed.js';
 
