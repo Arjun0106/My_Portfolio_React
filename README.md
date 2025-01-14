@@ -6,7 +6,6 @@ This is my portfolio website, which I developed using React.js. It showcases my 
 ## Tech Stack
 - **Frontend**: React.js
 - **Styling**: CSS (Bootstrap, Tailwind CSS)
-- **Build Tool**: npm
 - **Runtime**: Node.js
 
 ## Steps to Run on Local System
