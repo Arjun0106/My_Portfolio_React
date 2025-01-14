@@ -70,7 +70,7 @@
     background: rgba(0, 0, 0, 0.3); /* No background */
     border: 2px solid var(--color-primary-variant); /* Border color */
     color: var(--color-white); /* Text color */
-    font-size: 0.9rem;
+    font-size: 0.85rem;
   }
   
   /* Style the submit button */
