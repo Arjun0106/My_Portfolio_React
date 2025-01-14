@@ -69,7 +69,7 @@ const Certificates = () => {
     },
     {
       id: 6,
-      title: 'Certified Secure Computer User',
+      title: 'Certified Secure Computer User (CSCU)',
       img: IMG5,
       description:
         'I have successfully completed the "EC-Council : Certified Secure Computer User (CSCU)" certification, demonstrating a solid understanding of essential cybersecurity concepts and best practices. This certification has equipped me with the skills to protect personal and organizational data, enabling me to effectively contribute to cybersecurity initiatives and enhance my technical expertise in the field.',
