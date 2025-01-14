@@ -91,7 +91,7 @@
   /* Responsive styles for smaller screens */
   @media screen and (max-width: 1024px) {
     .container.contact__container {
-      padding: 4rem; /* Increase padding for smaller screens */
+      padding: 3rem; /* Increase padding for smaller screens */
     }
   }
   
