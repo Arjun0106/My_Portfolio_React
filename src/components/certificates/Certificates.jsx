@@ -8,7 +8,7 @@ import IMG6 from '../../assets/udemy.png';
 import IMG7 from '../../assets/forage.png';
 import FILE1 from '../../assets/Certifications - arjunsivas-6431 _ Microsoft Learn(1).pdf'
 import FILE2 from '../../assets/Certifications - ArjunsivaS-6431 _ Microsoft Learn.pdf'
-import FILE3 from '../../assets/CC_Course_Completion_Certificate-Arjunsiva_S.pdf'
+import FILE3 from '../../assets/ISC2_CC_Exam_Pass_Proof_Arjunsiva_Subramanian.pdf'
 import FILE4 from '../../assets/Full_Stack_Development_ISB-Arjunsiva_S.pdf'
 import FILE5 from '../../assets/IBM_SkillsBuild_Artificial_Intelligence_Fundamentals_Certificate-Arjunsiva_S.pdf'
 import FILE6 from '../../assets/ECC-CSCU-Certificate-Arjunsiva_S.pdf'
@@ -43,7 +43,7 @@ const Certificates = () => {
     },
     {
       id: 3,
-      title: 'ISC2 Certified : Certified in Cybersecurity (CC) Course',
+      title: 'ISC2 Certified : Certified in Cybersecurity (CC)',
       img: IMG2,
       description: 'I have successfully completed the "ISC2 Certified : Certified in Cybersecurity (CC) Course" certification, demonstrating a solid understanding of cloud security concepts and best practices. This certification has equipped me with essential skills in securing cloud environments, enabling me to effectively contribute to cloud security projects and enhance my technical expertise in the field.',
       technologies: 'Cybersecurity Concepts | Best Practices | Networking | Access Control | Authentication | Recovery',
