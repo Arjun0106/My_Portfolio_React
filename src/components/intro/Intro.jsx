@@ -16,8 +16,8 @@ const Intro = () => {
         <div className="about__content">
         
         <p>
-      I'm an ambitious and driven young man, eager to enhance my knowledge and adopt cutting-edge concepts. I have completed my Bachelor of Engineering degree in Computer Science Engineering (CSE) at Rajalakshmi Institute of Technology (2020 - 2024).<br /><br />
-      I am always energetic and ambitious to learn new skills & technologies. These qualities help me to get updated and gain more knowledge in the technological field and with Software Engineering as a passion, I am dedicated to develop the skills and knowledge necessary to make a meaningful impact in IT.<br /><br />
+      I'm an ambitious and driven young man, eager to enhance my knowledge and adopt cutting-edge concepts. I have completed my Bachelor of Engineering degree in Computer Science Engineering (CSE) at Rajalakshmi Institute of Technology (2020 - 2024), and I am currently working as an Oracle Application Developer in ERP Systems at Tata Consultancy Services.<br /><br />
+      I am always energetic and ambitious to learn new skills & technologies. These qualities help me to get updated and gain more knowledge in the technological field and with Software Engineering as a passion, I am dedicated in developing the skills and knowledge necessary to make a meaningful impact in IT.<br /><br />
       I have actively sought out opportunities to enhance my learning including Certifications, Software Projects and Publishing Research Papers. These experiences have equipped me with a solid Software Engineering foundation and cultivated my ability such as Adaptability, Critical Thinking and Problem-Solving.<br /><br />
     </p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
